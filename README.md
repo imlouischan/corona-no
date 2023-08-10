@@ -5,8 +5,8 @@
 
 ## Descriptions
 
-This GitHub repository (https://github.com/imlouischan/corona-no) contains the codes of the individual-based model (IBM) for simulating vaccination strategies for COVID-19 in Norway. 
-For the codes of the meta-population model (MPM), please refer to another GitHub repository (https://github.com/Gulfa/regional_vaccination). 
+This GitHub repository (https://github.com/imlouischan/corona-no or https://github.com/folkehelseinstituttet/COVID19_vaccination-IBM) contains the codes of the individual-based model (IBM) for simulating vaccination strategies for COVID-19 in Norway. Due to Git LFS data quota limitations, some large files are only available at https://github.com/imlouischan/corona-no. 
+For the codes of the meta-population model (MPM), please refer to another GitHub repository (https://github.com/Gulfa/regional_vaccination or https://github.com/folkehelseinstituttet/COVID19_vaccination-MPM). 
 
 ## Contents
 
